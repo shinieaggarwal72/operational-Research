@@ -1,5 +1,5 @@
-# Optimization Techniques
-This repository contains matlab codes for the following optimization techniques algorithms:
+# Operational Research
+This repository contains matlab codes for the following operational research algorithms:
 1. Algebraic Method
 2. Graphical Method
 3. Simplex Method
